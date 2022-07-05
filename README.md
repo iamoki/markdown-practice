@@ -51,7 +51,7 @@ _이텔릭_
 
 # 이미지(Images)
 
-![HEROPY](https://heropy.blog/css/images/logo.png)
+<!-- ![HEROPY](https://heropy.blog/css/images/logo.png) -->
 
 [![oki](https://velog.velcdn.com/images/aoh1223/profile/ad9fc7ea-f416-4e3f-af5d-379dd6730f6d/1.jpeg)](https://velog.io/@aoh1223)
 
@@ -114,3 +114,10 @@ fixed|뷰포트|X
 동해물과 <span style="text-decoration: underline;">백두산</span>이 마르고 닳도록<br/>
 하느님이 보우하사 우리나라 만세
 
+# 수평선(Horizontal Rule)
+
+---
+
+***
+
+___
